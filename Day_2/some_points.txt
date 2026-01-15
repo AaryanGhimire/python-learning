@@ -8,4 +8,5 @@ identifier cant start with 0-9
  answer is false and false or true(did not first)
  answer is false or true(did and then)
  answer is true (did or)
+ identifier can only start with a-z or A-z or _(underscore)
 
