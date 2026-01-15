@@ -1,0 +1,5 @@
+# starts comment in python
+identifier cant start with 0-9 
+** is a valid arithematic operator
+ 3 logical operator And or not
+ variable declaration is implict(type define garna pardaina) in Python
