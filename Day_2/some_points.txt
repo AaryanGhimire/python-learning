@@ -3,3 +3,9 @@ identifier cant start with 0-9
 ** is a valid arithematic operator
  3 logical operator And or not
  variable declaration is implict(type define garna pardaina) in Python
+ operator precedence 1)not 2)and 3)or
+ not True and False or True 
+ answer is false and false or true(did not first)
+ answer is false or true(did and then)
+ answer is true (did or)
+ 
