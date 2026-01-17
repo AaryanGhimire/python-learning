@@ -9,5 +9,7 @@ print(str)
 
 str1="Aaryan"
 str2="Ghimire"
-finalstr=str1+str2 #string concatenation
+finalstr=str1+" "+str2 #string concatenation
 print(finalstr)
+
+print(len(finalstr))#length of string.length also counts spaces as length
