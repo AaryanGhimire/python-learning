@@ -14,3 +14,4 @@ print(info)
 null_dict ={}
 null_dict["name"]="Cherki"
 print(null_dict)
+#null dictionary can be used in various cases and added data afterwards
