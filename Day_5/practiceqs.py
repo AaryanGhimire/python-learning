@@ -23,3 +23,11 @@ z=int(input("Enter math marks:"))
 marks.update({"math":z})
 print(marks)
 
+#Figure out a way to store 9 and 9.0 as seperate values in the set.you can take help of built in data types
+set={9,"9.0"}# first method
+print(set)
+values={
+    ("float",9.0),
+    ("int",9)
+}
+print(values)#second methods is making tuples
