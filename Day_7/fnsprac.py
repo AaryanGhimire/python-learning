@@ -4,7 +4,7 @@
     # len()
     # range()
 # 2)User Defined function
-#   defined by user ie calc_sum() anything can be made
+#   defined by user ie calc_sum() anything can be made eg: calc_mul(),fact() etc.
 
 #WAF to print the length of a list.(list is the parameter)
 Mancity=["Haaland","foden","Cherki","Reijnders","Ait Nouri"]
