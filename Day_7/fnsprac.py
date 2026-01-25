@@ -15,7 +15,7 @@ def print_len(list):
 print_len(Mancity)
 
 #WAF to print the elements of a list in a single line(list in the parameter)
-Mancity=["Haaland","foden","Cherki","Reijnders","Ait Nouri"]
+Mancity=["Marmoush","foden","Cherki","Reijnders","Ait Nouri"]
 def print_list():
     for item in list:
         print(item,end="")
