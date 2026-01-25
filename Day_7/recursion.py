@@ -36,3 +36,5 @@ def print_list(list,index=0):
 
 fruits=["mango","apple","banana"]
 print_list(fruits)
+mango=["good","riped","rotted"]
+print_list(mango)
