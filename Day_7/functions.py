@@ -15,5 +15,5 @@ print(output)#output is none
 #avg of 3 numbers
 def avg(a,b,c):
     return (a+b+c)/3
-average=avg(2,3,4)
+average=avg(2,3,5)
 print(average)
